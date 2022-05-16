@@ -1,0 +1,22 @@
+body {
+    padding: 10% 3% 10% 3%;
+    text-align: center;
+}
+
+h1 {
+    color: #32a856;
+    margin-top: 30px;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #555;
+    padding: 10px;
+    margin-left: 8px;
+    border-radius: 10px;
+}
+
+.dark {
+    background-color: rgb(102, 82, 82); /*222 was used initially*/
+    color: #e6e6e6;
+}
